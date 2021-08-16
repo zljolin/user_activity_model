@@ -1,0 +1,9 @@
+const int j;
+const int k;
+
+filter(sum,P=?[X s=j&(X s=k)],s=1)
+
+filter(max,P=?[X s=j&(X s=k)],s=1)
+
+P=?[X s=1W(X s=j W(X s=k))]
+
